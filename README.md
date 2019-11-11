@@ -5,3 +5,4 @@ This project is a java Spring web application. Users are able to perform all CRU
 ## To run this project
 
 Being a maven-based project all it takes to run the java application is to import into your IDE and run as is. The database layer was manually made so run the SuperHeroSightings.sql script and set up the application.properties to connect to the created SQL database.
+Check out a web version at https://super-sightings.herokuapp.com/.
